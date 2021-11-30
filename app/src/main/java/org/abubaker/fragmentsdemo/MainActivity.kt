@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
                 // Select the Fragment file to be inflated
                 add<ExampleFragment>(R.id.fragment_container_view)
 
-
             }
 
         }
